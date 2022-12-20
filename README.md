@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tubaib
-- 👀 I’m interested in competitive coding and machine learning.
-- 🌱 I’m currently learning python in details.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in competitive coding,machine learning and working on google cloud.
+- 🌱 I’m currently learning python in details and google cloud courses.
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me through my email id.
 
 <!---
